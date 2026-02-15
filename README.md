@@ -7,6 +7,8 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - Hello Cargo: Hello World built with Rust's package manager `cargo`.
 
+- Guessing Game: Terminal guessing game to learn about variables, matching expressions and crate management.
+
 - ... More incoming!
 
 
