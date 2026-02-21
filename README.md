@@ -9,6 +9,8 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - Guessing Game: Terminal guessing game to learn about variables, matching expressions and crate management.
 
+- Temperature Converter: Terminal Celsius <-> Fahrenheit degrees converter. Understanding variables, statements, expressions and loops.
+
 - ... More incoming!
 
 
