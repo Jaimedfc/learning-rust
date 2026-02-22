@@ -11,6 +11,10 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - Temperature Converter: Terminal Celsius <-> Fahrenheit degrees converter. Understanding variables, statements, expressions and loops.
 
+- Fibonacci sequence calculator: nice 'if' usage training.
+
+- 'The 12 days of Christmas' song lyrics printer. Fun way to train your Rust for loops skills.
+
 - ... More incoming!
 
 
