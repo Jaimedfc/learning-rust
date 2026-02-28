@@ -15,6 +15,8 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - 'The 12 days of Christmas' song lyrics printer. Fun way to train your Rust for loops skills.
 
+- Rectangles project: Understanding structs and their associated methods.
+
 - ... More incoming!
 
 
