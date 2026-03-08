@@ -17,6 +17,8 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - Rectangles project: Understanding structs and their associated methods.
 
+- Collections (WiP): Coding some terminal tools to code with collections (Vec, Strings and HashMaps).
+
 - ... More incoming!
 
 
