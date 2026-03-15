@@ -26,7 +26,7 @@ pub fn print_stats_from() {
 
     let max_repetitions = data_agg.values().max().expect("Error calculating mode");
 
-    let mode :i32 = find_key_from_value(&data_agg, *max_repetitions).expect("Error extracting for mode");
+    let mode :i32 = find_key_from_value(&data_agg, max_repetitions).expect("Error extracting for mode");
 
    
 
@@ -36,10 +36,10 @@ pub fn print_stats_from() {
 
 }
 
-fn find_key_from_value(map: &HashMap<i32, u32>, value_to_find_by: u32) -> Option<i32> {
+fn find_key_from_value(map: &HashMap<i32, u32>, value_to_find_by: &u32) -> Option<i32> {
 
     for (key, val) in map.iter() {
-        match *val == value_to_find_by {
+        match val == value_to_find_by {
             true => return Some(*key),
             false => continue,
         }

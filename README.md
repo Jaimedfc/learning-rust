@@ -17,7 +17,10 @@ Repo to save my first rust projects! Following steps in tutorial "[The Rust Prog
 
 - Rectangles project: Understanding structs and their associated methods.
 
-- Collections (WiP): Coding some terminal tools to code with collections (Vec, Strings and HashMaps).
+- Collections: 3 CLI tools to interact with collections (Vectors, Strings, Dictionaries).
+  - Statistics calculator: Extract median and mode from a values list input.
+  - Pig Latin Translator: Translate a word input to Pig Latin.
+  - Company Manager: Manage employees aggregated by department in a Company.
 
 - ... More incoming!
 
